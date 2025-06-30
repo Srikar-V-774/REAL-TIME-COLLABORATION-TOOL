@@ -20,3 +20,4 @@ All dependencies are managed through package.json, and setup is easy with just a
 
 OUTPUT :
 
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/e0c6431b-2b5f-4ef7-85d3-07eddbdb7199" />
