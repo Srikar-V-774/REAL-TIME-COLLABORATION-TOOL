@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Collaborative Editor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h2>Real-time Collaborative Note</h2>
+  <textarea id="editor" rows="20" cols="80" placeholder="Start typing..."></textarea>
+  <script src="script.js"></script>
+</body>
+</html>
